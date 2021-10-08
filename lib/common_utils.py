@@ -1,0 +1,5 @@
+HIGHEST_RISK = 'Not answered'
+LOW_RISK = 'Low'
+HIGH_RISK = 'High'
+MODERATE_RISK = 'Moderate'
+UNLIKELY_RISK = 'Unlikely'
